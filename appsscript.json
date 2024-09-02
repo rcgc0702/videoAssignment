@@ -1,0 +1,19 @@
+{
+  "timeZone": "America/Toronto",
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "sheets": {
+    "macros": [{
+      "menuName": "Test1",
+      "functionName": "Test1"
+    }, {
+      "menuName": "Apply Filter - In use",
+      "functionName": "myFunction3"
+    }, {
+      "menuName": "Remove All Filters",
+      "functionName": "RemoveAllFilters"
+    }]
+  }
+}
